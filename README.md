@@ -64,7 +64,7 @@ def train_model(model, train_loader,test_loader,num_epochs=30):
             for images, labels in test_loader:
                 images, labels = images.to(device), labels.to(device)
                 outputs = model(images)
-                loss = criterion(outputs, labels)
+                loss = criterion(outputs, labels) # change this to (loss = criterion(outputs, labels.unsqueeze(1).float()) for binary
                 val_loss += loss.item()
 
         val_losses.append(val_loss / len(test_loader))
