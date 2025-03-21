@@ -114,7 +114,8 @@ Include Classification Report here
 
 ### New Sample Prediction
 </br>
-![image](https://github.com/user-attachments/assets/caadbfcb-cad1-462c-ab23-d71c33c3acab)
+
+![image](https://github.com/user-attachments/assets/edc69ba5-957f-45d3-94cb-1812c4b1013f)
 
 </br>
 </br>
