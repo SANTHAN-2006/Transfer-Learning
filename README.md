@@ -2,10 +2,7 @@
 ## Aim
 To Implement Transfer Learning for classification using VGG-19 architecture.
 ## Problem Statement and Dataset
-Include the problem statement and Dataset
-</br>
-</br>
-</br>
+Develop a deep learning model for image classification using transfer learning. Utilize the pre-trained VGG19 model as the feature extractor, fine-tune it, and adapt it to classify images into specific categories.
 
 ## DESIGN STEPS
 ### Step 1: Import Libraries and Load Dataset
