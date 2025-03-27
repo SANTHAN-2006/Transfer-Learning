@@ -8,16 +8,32 @@ Include the problem statement and Dataset
 </br>
 
 ## DESIGN STEPS
-### STEP 1:
-</br>
+### Step 1: Import Libraries and Load Dataset
 
-### STEP 2:
-</br>
+Import the necessary libraries.
+Load the dataset.
+Split the dataset into training and testing sets.
 
-### STEP 3:
+### Step 2: Initialize Model, Loss Function, and Optimizer
 
-Write your own steps
-<br/>
+Define the model architecture.
+Use CrossEntropyLoss for multi-class classification.
+Choose the Adam optimizer for efficient training.
+
+### Step 3: Train the Model
+
+Train the model using the training dataset.
+Optimize the model parameters to minimize the loss.
+
+### Step 4: Evaluate the Model
+
+Test the model using the testing dataset.
+Measure performance using appropriate evaluation metrics.
+
+### Step 5: Make Predictions on New Data
+
+Use the trained model to predict outcomes for new inputs.
+
 
 ## PROGRAM
 Include your code here
